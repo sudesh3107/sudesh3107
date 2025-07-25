@@ -40,8 +40,6 @@ I'm SUDESH,a software student and aspiring Cybersecurity Specialist and Bug Hunt
 
 👉 Still Learning Bug hunting & malware forensics.
 
-👉 Managing Tech Communities & Content creator.
-
 👉 Writing Some Useful Tools For Myself & Communities
 
 👉 Building & Contributing To Open Source Projects
