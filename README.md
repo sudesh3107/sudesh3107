@@ -85,7 +85,6 @@ I'm SUDESH,a software student and aspiring Cybersecurity Specialist and Bug Hunt
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%"  src="https://github.com/user-attachments/assets/886c519f-8f34-496e-8160-2c5ec9edbcbf" />
  
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffinxp&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/coffinxp/github-readme-stats)
   [![GitHub Streak](<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sudesh3107&theme=black-ice" alt="GitHub Streak" /></a>)](https://git.io/streak-stats) 
  <p align="left"><a href="https://github.com/coffinxp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinxp&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
