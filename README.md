@@ -83,7 +83,7 @@ I'm SUDESH,a software student and aspiring Cybersecurity Specialist and Bug Hunt
 
  
  
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sudesh3107&theme=onedark-duo" alt="GitHub Streak" /></a>
+(<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sudesh3107&theme=onedark-duo" alt="GitHub Streak" /></a>)
 ]
 
 <p align="center">
